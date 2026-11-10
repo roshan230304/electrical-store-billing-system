@@ -1,0 +1,7 @@
+.env
+**/.env
+**/node_modules/
+**/dist/
+backend/db_backup_pre_cash_fix.json
+database/seed.sql
+database/reset_fresh.sql
